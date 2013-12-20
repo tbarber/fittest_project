@@ -1,0 +1,84 @@
+<manifest alg="2" build="329" opt="false" iceEnabled="true">
+  <folder name="css">
+    <file name="site_global.css" crc="417434784"/>
+    <file name="master_a-master.css" crc="311789712" ref="tip-of-the-day:about:gallery:testimonials:video:healthy-tips:contact:index"/>
+    <file name="tip-of-the-day.css" crc="4029744756" ref="tip-of-the-day"/>
+    <file name="about.css" crc="3988472014" ref="about"/>
+    <file name="gallery.css" crc="3886156368" ref="gallery"/>
+    <file name="testimonials.css" crc="3775101803" ref="testimonials"/>
+    <file name="video.css" crc="465184101" ref="video"/>
+    <file name="healthy-tips.css" crc="21860250" ref="healthy-tips"/>
+    <file name="contact.css" crc="4154268997" ref="contact"/>
+    <file name="index.css" crc="3892999895" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="3828297711" ref="index:about:video:gallery:healthy-tips:contact:testimonials:tip-of-the-day"/>
+    <file name="museutils.js" crc="117816282" ref="index:about:video:gallery:healthy-tips:contact:testimonials:tip-of-the-day"/>
+    <file name="jquery.musemenu.js" crc="32367222" ref="index:about:video:gallery:healthy-tips:contact:testimonials:tip-of-the-day"/>
+    <file name="pie.js" crc="4147615982" ref="index"/>
+    <file name="webpro.js" crc="33264525" ref="index:gallery:contact:testimonials"/>
+    <file name="musewpslideshow.js" crc="272207905" ref="index:gallery"/>
+    <file name="jquery.museoverlay.js" crc="466079611" ref="index:gallery"/>
+    <file name="touchswipe.js" crc="261777990" ref="index:gallery"/>
+    <file name="jquery.watch.js" crc="4199601726" ref="index:about:video:gallery:healthy-tips:contact:testimonials:tip-of-the-day"/>
+    <file name="form_check.php" crc="420793330" ref="contact:testimonials"/>
+    <file name="form_throttle.php" crc="4126984013" ref="contact:testimonials"/>
+    <file name="form-u1435.php" crc="3853612137" ref="contact"/>
+    <file name="form-u1396.php" crc="268593878" ref="testimonials"/>
+  </folder>
+  <folder name="images">
+    <file name="billboard2.jpg" crc="216384960" ref="index"/>
+    <file name="about.jpg" crc="264143880" ref="index"/>
+    <file name="healthy.jpg" crc="4229950851" ref="index"/>
+    <file name="youtube.png" crc="442611654" ref="index"/>
+    <file name="linkedin.png" crc="425971177" ref="index"/>
+    <file name="twitter.png" crc="4102706121" ref="index"/>
+    <file name="facebook.png" crc="317936629" ref="index"/>
+    <file name="testimony.jpg" crc="3862662113" ref="index"/>
+    <file name="billboard3.jpg" crc="273623802" ref="index"/>
+    <file name="billboard4.jpg" crc="3779410162" ref="index"/>
+    <file name="billboard5.jpg" crc="4100845330" ref="index"/>
+    <file name="lilt-u1483.jpg" crc="311823245" ref="about"/>
+    <file name="photo_galleryfive.jpg" crc="4153304613" ref="gallery"/>
+    <file name="blank.gif" crc="4208392903" ref="gallery"/>
+    <file name="photo_galleryfour.jpg" crc="3772209605" ref="gallery"/>
+    <file name="photo_galleryone.jpg" crc="3883966077" ref="gallery"/>
+    <file name="weights.jpg" crc="4755376" ref="gallery"/>
+    <file name="pull.jpg" crc="4038312824" ref="gallery"/>
+    <file name="rope.jpg" crc="146470726" ref="gallery"/>
+    <file name="hold.jpg" crc="3765363341" ref="gallery"/>
+    <file name="legs.jpg" crc="4239820232" ref="gallery"/>
+    <file name="pushup.jpg" crc="136568305" ref="gallery"/>
+    <file name="legup.jpg" crc="324888636" ref="gallery"/>
+    <file name="guy.jpg" crc="3974952767" ref="gallery"/>
+    <file name="flat.jpg" crc="4205463541" ref="gallery"/>
+    <file name="ball.jpg" crc="340804105" ref="gallery"/>
+    <file name="photo_gallerysix.jpg" crc="4244167761" ref="gallery"/>
+    <file name="photo_gallerythree.jpg" crc="247329846" ref="gallery"/>
+    <file name="photo_gallerytwo.jpg" crc="3792199262" ref="gallery"/>
+    <file name="loading.gif" crc="3815509949" ref="gallery"/>
+    <file name="logofit.png" crc="251758045" ref="gallery:contact"/>
+    <file name="oatmeal.jpg" crc="452244325" ref="healthy-tips"/>
+    <file name="salad.png" crc="414132185" ref="healthy-tips"/>
+    <file name="food.jpg" crc="3778884318" ref="healthy-tips"/>
+    <file name="fat.png" crc="87898407" ref="healthy-tips"/>
+    <file name="water.png" crc="3769454054" ref="healthy-tips"/>
+    <file name="pizza.png" crc="4185631122" ref="healthy-tips"/>
+    <file name="u1468-17.png" crc="479674940" ref="contact"/>
+    <file name="u1468-17-r.png" crc="4055231547" ref="contact"/>
+    <file name="u1468-17-m.png" crc="3802471967" ref="contact"/>
+    <file name="u1468-17-fs.png" crc="432182209" ref="contact"/>
+    <file name="u1429-17.png" crc="479674940" ref="testimonials"/>
+    <file name="u1429-17-r.png" crc="4055231547" ref="testimonials"/>
+    <file name="u1429-17-m.png" crc="3802471967" ref="testimonials"/>
+    <file name="u1429-17-fs.png" crc="432182209" ref="testimonials"/>
+  </folder>
+  <file name="index.html" crc="60080249" mt="1387539073634" redirect="true"/>
+  <file name="about.html" crc="3997254473" mt="1387539073635" redirect="true"/>
+  <file name="video.html" crc="3758157917" mt="1387539629136" redirect="true"/>
+  <file name="gallery.html" crc="4216102108" mt="1387539073638" redirect="true"/>
+  <file name="healthy-tips.html" crc="4256247428" mt="1387539073639" redirect="true"/>
+  <file name="contact.html" crc="62943610" mt="1387540849950" redirect="true"/>
+  <file name="testimonials.html" crc="359986905" mt="1387539372791" redirect="true"/>
+  <file name="tip-of-the-day.html" crc="65507460" mt="1387539073649" redirect="true"/>
+</manifest>
